@@ -1,5 +1,5 @@
 ## Olá Visitante :) 👋
-#### Este é o github oficial do projeto de pesquisa UniGUIA.
+#### Este é o repositório oficial do projeto de pesquisa UniGUIA.
 
 O projeto UNIGUIA consiste em oferecer serviços de acessibilidade e mobilidade no interior da universidade a partir de um guia acessível. O guia inicialmente pretende garantir as pessoas com deficiência visual mobilidade e autonomia no interior da universidade, através de marcadores em posições estratégicas do campus. O usuário do guia irá localizar estes marcadores através de localizadores sonoros (ex: sinos de vento) e usará seu smartphone para eu o dispositivo leia em voz alta as informações sobre o lugar e os possíveis direcionamentos para outros espaços.
 Este guia está sendo desenvolvido usando as tecnologias: QRCode (Soon 2008) para marcar os lugares informacionais e um aplicativo com síntese de voz (Neto 2005) para ler as instruções correspondentes a cada QRCode. Associado aos QRCodes, teremos localizadores sonoros para que a pessoa com deficiência perceba a posição dos QRCodes. Paralelo a isso as informações também podem estar em placas em Braille abaixo dos localizadores sonoros.
